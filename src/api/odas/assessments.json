@@ -1,0 +1,103 @@
+{
+  "assessments": [
+  {
+  "_id": {
+  "$oid": "587fed2afe615c0008000003"
+  },
+  "_slugs": [
+  "diabetes-risk"
+  ],
+  "author": "Los Angeles County Department of Health Services",
+  "tag": "Health",
+  "title": "Diabetes Risk",
+  "id": "587fed2afe615c0008000003",
+  "slug": "diabetes-risk",
+  "resource_type": "Assessment"
+  },
+  {
+  "_id": {
+  "$oid": "5881b93d9046990008000007"
+  },
+  "_slugs": [
+  "depression"
+  ],
+  "author": "Los Angeles County Department of Health Services",
+  "tag": "Health",
+  "title": "Depression",
+  "id": "5881b93d9046990008000007",
+  "slug": "depression",
+  "resource_type": "Assessment"
+  },
+  {
+  "_id": {
+  "$oid": "5881baf7904699000800000a"
+  },
+  "_slugs": [
+  "food-insecurity"
+  ],
+  "author": "Los Angeles County Department of Health Services",
+  "tag": "Food",
+  "title": "Food Insecurity",
+  "id": "5881baf7904699000800000a",
+  "slug": "food-insecurity",
+  "resource_type": "Assessment"
+  },
+  {
+  "_id": {
+  "$oid": "5881bc146b8416000b000007"
+  },
+  "_slugs": [
+  "housing-insecurity"
+  ],
+  "author": "Los Angeles County Department of Health Services",
+  "tag": "Housing",
+  "title": "Housing Insecurity",
+  "id": "5881bc146b8416000b000007",
+  "slug": "housing-insecurity",
+  "resource_type": "Assessment"
+  },
+  {
+  "_id": {
+  "$oid": "5a99af55fbe3ac00080000e1"
+  },
+  "_slugs": [
+  "sis-screener-assessment",
+  "calfresh-and-medi-cal-eligibility"
+  ],
+  "author": "",
+  "tag": "health",
+  "title": "CalFresh and Medi-Cal Eligibility",
+  "id": "5a99af55fbe3ac00080000e1",
+  "slug": "calfresh-and-medi-cal-eligibility",
+  "resource_type": "Assessment"
+  },
+  {
+  "_id": {
+  "$oid": "5f9848474c57320a123f90d2"
+  },
+  "_slugs": [
+  "housing-helper"
+  ],
+  "author": "",
+  "tag": "",
+  "title": "Housing Helper",
+  "id": "5f9848474c57320a123f90d2",
+  "slug": "housing-helper",
+  "resource_type": "Assessment"
+  },
+  {
+  "_id": {
+  "$oid": "61f25fbcb50fb0000c663d7a"
+  },
+  "_slugs": [
+  "hiv-risk"
+  ],
+  "author": "Northeast Valley Health Corporation",
+  "tag": "",
+  "title": "HIV Risk",
+  "id": "61f25fbcb50fb0000c663d7a",
+  "slug": "hiv-risk",
+  "resource_type": "Assessment"
+  }
+  ]
+  }
